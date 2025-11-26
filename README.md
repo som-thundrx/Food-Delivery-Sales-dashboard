@@ -1,4 +1,4 @@
-# Food_Delivery_Dashboard_PowerBI
+# Food_Delivery_Sales_Dashboard
 Food Delivery Company Sales Analytics using PowerBI
 
 # Problem Statement
